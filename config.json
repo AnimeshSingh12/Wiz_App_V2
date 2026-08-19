@@ -1,0 +1,22 @@
+{
+  "bulb_ips": [
+    "192.168.1.9"
+  ],
+  "screen": {
+    "monitor_index": 1,
+    "crop": {
+      "left_percent": 0,
+      "top_percent": 0,
+      "width_percent": 100,
+      "height_percent": 100
+    },
+    "sample_width": 64,
+    "sample_height": 36
+  },
+  "light": {
+    "brightness": 80,
+    "update_interval_seconds": 0.25,
+    "min_color_change": 12,
+    "warm_white_when_dark": true
+  }
+}
