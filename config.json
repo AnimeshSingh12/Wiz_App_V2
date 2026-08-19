@@ -1,6 +1,6 @@
 {
   "bulb_ips": [
-    "192.168.1.9"
+    "192.0.0.0"
   ],
   "screen": {
     "monitor_index": 1,
